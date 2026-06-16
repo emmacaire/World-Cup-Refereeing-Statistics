@@ -9,11 +9,11 @@ Source data was extracted from a comprehensive dataset including all games at Wo
 ## 📊 Key Deliverables & Artifacts
 * 📂 **[Interactive Analysis Notebook](./notebooks/Classification_data_mining_2.ipynb):** 
 Python code including EDA, data cleaning, model training and comparison.
-* 📄 **[Chapter 1: Referee appointments and experience]([https://law5-theref.blogspot.com/2026/06/refereeing-stats-at-world-cup-chapter-1.html]):** 
+* 📄 **[Chapter 1: Referee appointments and experience](https://law5-theref.blogspot.com/2026/06/refereeing-stats-at-world-cup-chapter-1.html):** 
 A synthetic report explaining the methodologies, challenges and summarizing the academic conclusions.
 * 📄 **[Chapter 2: Card distribution and timing](https://law5-theref.blogspot.com/2026/06/refereeing-stats-at-world-cup-chapter-2.html):** 
 A synthetic report explaining the methodologies, challenges and summarizing the academic conclusions.
-* 📄 **[Chapter 3: Individual referee and team statistics]([./report/Classification_report_DM2.pdf](https://law5-theref.blogspot.com/2026/06/refereeing-stats-at-world-cup-chapter-3.html)):** 
+* 📄 **[Chapter 3: Individual referee and team statistics](https://law5-theref.blogspot.com/2026/06/refereeing-stats-at-world-cup-chapter-3.html):** 
 A synthetic report explaining the methodologies, challenges and summarizing the academic conclusions.
 
 ## 🛠️ Tech Stack & Methodology
