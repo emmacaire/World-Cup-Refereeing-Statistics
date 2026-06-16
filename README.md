@@ -7,17 +7,15 @@ The analysis mostly focused on referee appointments and disciplinary aspects (ye
 Source data was extracted from a comprehensive dataset including all games at World Cup since 1930, but most of the analysis focuses on the latest 30 years, from 1986 onwards.
 
 ## 📊 Key Deliverables & Artifacts
-* 📂 **[Interactive Analysis Notebook](./notebooks/Classification_data_mining_2.ipynb):** 
-Python code including EDA, data cleaning, model training and comparison.
 * 📄 **[Chapter 1: Referee appointments and experience](https://law5-theref.blogspot.com/2026/06/refereeing-stats-at-world-cup-chapter-1.html):** 
-A synthetic report explaining the methodologies, challenges and summarizing the academic conclusions.
+Analysis of the referee appointments by continent of origin (confederation), number of previous games at the tournament and previous experience at World Cup. Focus on the concept of confederation neutrality (referee from a different confederation of the teams involved).
 * 📄 **[Chapter 2: Card distribution and timing](https://law5-theref.blogspot.com/2026/06/refereeing-stats-at-world-cup-chapter-2.html):** 
-A synthetic report explaining the methodologies, challenges and summarizing the academic conclusions.
+General overview of the evolution of yellow and red cards across tournaments, and deeper insight on card distribution and minutes of play, looking at average game minute and first cards of the game.  
 * 📄 **[Chapter 3: Individual referee and team statistics](https://law5-theref.blogspot.com/2026/06/refereeing-stats-at-world-cup-chapter-3.html):** 
-A synthetic report explaining the methodologies, challenges and summarizing the academic conclusions.
+Ranking of the referees with more games, cards and how those are distributed across individual players and teams. Focus on how the role of a player has historically correlated with the disciplinary aspects. Final chart summarizing the findings of the analysis.
 
 ## 🛠️ Tech Stack & Methodology
-* **Language:** 
-Python (Pandas, Scikit-Learn, Matplotlib, Seaborn, NumPy, SciPy)
-* **Concepts:** 
-Outlier detection (winsorization), handling missing values (one-hot encoding, average target encoding), feature selection (RFE), model training (logistic regression, Naive Bayes, KNN, Random Forest, Extra Trees, Adaboost, Gradient Boosting, MLP), confusion matrix evaluation and metrics (accuracy, precision, recall, F1-score, ROC AUC).
+* **Softwares and platforms:** 
+Tableau Public, Blogger (HTML)
+* **Visualization tools:** 
+Stacked and parallel bar charts, scatter plots, multiple line charts, small multiples, heatmaps.
