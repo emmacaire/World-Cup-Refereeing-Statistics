@@ -6,11 +6,13 @@
 [![CH_2](https://img.shields.io/badge/Blog-Part_2-orange)](https://law5-theref.blogspot.com/2026/06/refereeing-stats-at-world-cup-chapter-2.html)
 [![CH_3](https://img.shields.io/badge/Blog-Part_3-orange)](https://law5-theref.blogspot.com/2026/06/refereeing-stats-at-world-cup-chapter-3.html)
 <br>
+<br>
 
 ## 📋 Summary
 A few weeks before the start of the 2026 World Cup, I conducted this analysis to explore the evolution of refereeing at the previous tournament editions and confirm patterns and trends with numbers and empirical evidence. 
 The analysis mostly focused on referee appointments and disciplinary aspects (yellow and red cards), surrounded by a set of explanatory variables such as referee/team confederation, tournament stage, tournament year, minute of play and player role.
 Source data was extracted from a comprehensive dataset including all games at World Cup since 1930, but most of the analysis focuses on the latest 30 years, from 1986 onwards.
+<br>
 <br>
 
 ## 📊 Key Deliverables & Artifacts
