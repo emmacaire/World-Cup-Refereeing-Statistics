@@ -12,6 +12,7 @@
 A few weeks before the start of the 2026 World Cup, I conducted this analysis to explore the evolution of refereeing at the previous tournament editions and confirm patterns and trends with numbers and empirical evidence. 
 The analysis mostly focused on referee appointments and disciplinary aspects (yellow and red cards), surrounded by a set of explanatory variables such as referee/team confederation, tournament stage, tournament year, minute of play and player role.
 Source data was extracted from a comprehensive dataset including all games at World Cup since 1930, but most of the analysis focuses on the latest 30 years, from 1986 onwards.
+The analysis revealed several interesting patterns in the historic evolution of cards and goals, highlighted differences in referee confederations and teams involved, supported by a documented narrative interpreting the trends with personal knowledge of the evolution of refereeing.
 <br>
 <br>
 
