@@ -1,5 +1,5 @@
 # World Cup Refereeing Statistics
-> **A comprehensive, 3-part published data narrative analyzing historical FIFA World Cup matches to uncover trends in referee assignments, card distributions, and goals scored across different tournaments.**
+> **A published article on a refereeing blog with a 3-part data narrative analyzing historical FIFA World Cup matches to uncover trends in referee assignments, card distributions, and goals scored across different tournaments.**
 
 [![Blog Link](https://img.shields.io/badge/Tableau-Dashboard-blue)](https://public.tableau.com/app/profile/emmanuel.macaire/viz/WorldCupRefereeStats/A_Tournament)
 [![CH_1](https://img.shields.io/badge/Blog-Part_1-orange)](https://law5-theref.blogspot.com/2026/06/refereeing-stats-at-world-cup-chapter-1.html)
